@@ -44,7 +44,6 @@ Filter =. {{
   pos =. 2 -.@= scr
   need =. 1 = scr
   wrds #~ 0 = (gss #~ 0 = scr) #@:([ -. -.)"1 (pos #"1 wrds) PW"1 need # gss
-  wrds
 }}
 
 NB. Execution
